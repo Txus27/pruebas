@@ -6,3 +6,4 @@
 # edtito esto para hacerlo por comandos
 
 ## creo conflicto desde visual
+# creo conflicto
